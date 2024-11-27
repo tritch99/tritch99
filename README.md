@@ -11,6 +11,7 @@ Skilled in data cleaning, exploratory data analysis (EDA) and statistical modell
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [tomjamesritchie@hotmail.com](mailto:tomjamesritchie@hotmail.com)
+*   🚀  Take a look at my [Bootcamp Assignments](http://https://github.com/tritch99/Assignments)
 
 ### Skills 
 
